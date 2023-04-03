@@ -1,0 +1,10 @@
+2023-04-03 02:02:20.406613 - Initialized conversion of CBT697
+2023-04-03 02:02:20.456445 - Received CBT.V504.FILE697.PDS from FILE697.XMI 
+2023-04-03 02:02:20.459138 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE697.PDS, moved to PDS/$$$#DATE
+2023-04-03 02:02:20.460300 - Found $$NOTE1.txt (text/plain) in CBT.V504.FILE697.PDS, moved to PDS/$$NOTE1
+2023-04-03 02:02:20.461354 - Found $DOC.txt (text/plain) in CBT.V504.FILE697.PDS, moved to PDS/$DOC
+2023-04-03 02:02:20.462569 - Found @FILE697.txt (text/plain) in CBT.V504.FILE697.PDS, moved to PDS/@FILE697
+2023-04-03 02:02:20.463586 - Found DFH0FORC.jcl (text/plain) in CBT.V504.FILE697.PDS, moved to PDS/DFH0FORC
+2023-04-03 02:02:20.464526 - Found RECEIVE.jcl (text/plain) in CBT.V504.FILE697.PDS, moved to PDS/RECEIVE
+2023-04-03 02:02:20.877056 - Found TARFILE.xmi (application/xmit) in CBT.V504.FILE697.PDS
+2023-04-03 02:02:20.881357   - Received to CBT697/TAR.GZ
